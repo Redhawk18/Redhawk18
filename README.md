@@ -3,8 +3,8 @@
 
 I'm enthusiastic about my projects and always enjoy learning something new. Building a feature complete project from a simple `Hello World` is a amazing experience.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhawk18&theme=transparent)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redhawk18&theme=transparent&layout=donut)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhawk18&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redhawk18&theme=transparent&layout=donut)
 
 #### These are project(s) I'm actively working on or maintaining
 
