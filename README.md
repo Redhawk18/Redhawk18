@@ -8,12 +8,9 @@ I'm enthusiastic about my projects and always enjoy learning something new. Buil
 
 #### These are project(s) I'm actively working on or maintaining
 
-Blaze is a work in progress graphical and terminal ui based IDE, with plans for a vast plugin ecosystem. 
+Blaze is a work in progress IDE, with plans for a vast plugin ecosystem. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redhawk18&repo=code-editor&theme=transparent)](https://github.com/Redhawk18/blaze)
-
-Mechonis is a TUI library written in Rust, inspired after Elm and Iced. 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redhawk18&repo=tui&theme=transparent)](https://github.com/Redhawk18/mechonis)
 
 Bongo-Bot is a Discord bot that plays audio from online, I self host the bot and the invite link is in the projects `README.MD`.
 
