@@ -12,8 +12,6 @@ I love building software, and want a world where software doesn't suck. I've wor
 
 Maintaining packages in [nixpkgs](https://github.com/NixOS/nixpkgs/blob/cdb7f29d8f5c3c543ebcb0e19499698833e9d395/maintainers/maintainer-list.nix#L23139)!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redhawk18&repo=code-editor&theme=transparent)](https://github.com/Redhawk18/kuiper)
-
 [Iced fonts](https://crates.io/crates/iced_fonts)
 
 [![Crates.io Downloads](https://img.shields.io/crates/d/iced_fonts)](https://crates.io/crates/iced_fonts)
