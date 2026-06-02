@@ -15,16 +15,19 @@ Maintaining packages in [nixpkgs](https://github.com/NixOS/nixpkgs/blob/cdb7f29d
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redhawk18&repo=code-editor&theme=transparent)](https://github.com/Redhawk18/kuiper)
 
 [Iced fonts](https://crates.io/crates/iced_fonts)
+
 [![Crates.io Downloads](https://img.shields.io/crates/d/iced_fonts)](https://crates.io/crates/iced_fonts)
 
 A fancy proc macro crate for transforming font files into widget macros. Including already vendored and tested fonts for ease of use.
 
 [Dent Cloud](https://crates.io/crates/dent_cloud)
+
 [![Crates.io Downloads](https://img.shields.io/crates/d/dent_cloud)](https://crates.io/crates/dent_cloud)
 
 A small API with 100% endpoint coverage for dentcloud.io hardware's API access.
 
 [Tenor](https://crates.io/crates/tenor)
+
 [![Crates.io Downloads](https://img.shields.io/crates/d/tenor)](https://crates.io/crates/tenor)
 
 Work in progress API for tenor.com by Google. Major features are available, not minor features. It was a part of a larger project I was building that I could isolate outward and build in public.
